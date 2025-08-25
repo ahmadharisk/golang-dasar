@@ -5,10 +5,10 @@ import "fmt"
 func main() {
 	var name string
 
-	name = "haris"
+	name = "peppo"
 	fmt.Println(name)
 
-	name = "ahmad haris kurniawan"
+	name = "peppo silpiana"
 	fmt.Println(name)
 
 	// bisa mendeteksi tipe data
@@ -16,12 +16,12 @@ func main() {
 	fmt.Println(age)
 
 	// tidak perlu menggunakan var cukup :=
-	negara := "indonesia"
+	negara := "jepang"
 	fmt.Println(negara)
 
 	// membuat var lebih dari satu
 	var (
-		kota = "jakarta pusat"
+		kota = "tokyo"
 		hobi = "membuat program"
 	)
 
